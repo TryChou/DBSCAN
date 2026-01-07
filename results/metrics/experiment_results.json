@@ -1,0 +1,24 @@
+{
+  "10000": {
+    "basic_time": 156.3,
+    "vectorized_time": 25.4,
+    "parallel_time": 12.8,
+    "vectorized_speedup": 6.2,
+    "parallel_speedup": 12.2,
+    "silhouette": 0.61,
+    "db_index": 0.87,
+    "n_clusters": 12,
+    "noise_ratio": 0.18
+  },
+  "50000": {
+    "basic_time": 285.6,
+    "vectorized_time": 58.2,
+    "parallel_time": 19.5,
+    "vectorized_speedup": 4.9,
+    "parallel_speedup": 14.7,
+    "silhouette": 0.62,
+    "db_index": 0.83,
+    "n_clusters": 48,
+    "noise_ratio": 0.15
+  }
+}
